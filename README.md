@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amschang
 - 👀 I’m interested in ...Dancing, Calisthenics, and Programming.
 - 🌱 I’m currently learning ...HTML, CSS, and Javascript.
-- 💞️ I’m looking to collaborate on ...open-spurce web development projects.
+- 💞️ I’m looking to collaborate on ...open-source web development projects.
 - 📫 How to reach me ...mschang357@gmail.com
 
 <!---
